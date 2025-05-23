@@ -1,0 +1,6 @@
+# Módulos do Node
+node_modules/
+
+# Artefatos do Cypress
+cypress/videos/
+cypress/screenshots/
